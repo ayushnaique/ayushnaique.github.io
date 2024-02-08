@@ -12,12 +12,9 @@ Hello there! I am Ayush, and my journey revolves around the captivating world of
 
 ## Education
 **M.S., Computer Science** | NYU (_May 2025_)
-
 **B.Tech., Computer Science and Engineering** | NIT - Goa (_May 2023_)
 
 ------------------------------------------------------------------------------------------------
-
 ## Work Experience
 **Machine Learning Intern** @ NCPOR | (_June 2022 - Sept 2022_)
-
 **Data Science Intern** @ SmartKnower Ltd. | (_Jan 2022 - March 2022_)
